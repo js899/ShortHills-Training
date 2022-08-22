@@ -1,0 +1,3 @@
+[submodule "PHP-Training"]
+	path = PHP-Training
+	url = https://github.com/js899/PHP-Training.git
